@@ -1,7 +1,5 @@
 # Discord.JS v14 Handler For Starter
 
-<iframe src="https://discordapp.com/widget?id=1037118332077350973&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
-
 ## English
 - This is Discord.JS v14 handler for starter.
 - Feel free to submit an issue or open a pull request!
